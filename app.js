@@ -39,7 +39,7 @@ function init(resultFromServer) {
           break;
 
     case 'Snow':
-        document.body.style.backgroundImage = 'url(https://images.unsplash.com/photo-1513183881046-a5fa074c681d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80)';
+        document.body.style.backgroundImage = 'url(https://images.unsplash.com/photo-1516820208784-270b250306e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1482&q=80)';
           break;
 
     default:

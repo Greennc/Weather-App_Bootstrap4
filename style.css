@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/weathermain2.png);
+    background-image: url('https://images.unsplash.com/photo-1531324442324-909f6c0394e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80');
     /* background-size: cover ; */
     background-repeat: no-repeat;
     color: white;
